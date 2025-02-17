@@ -113,3 +113,9 @@ Develop SQL-based analytics and dashboards to extract valuable insights into:
 
 
 These insights empower business stakeholders with key performance metrics for strategic decision-making.
+
+
+
+🛡️ License
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
