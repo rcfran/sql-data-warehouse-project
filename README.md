@@ -10,20 +10,20 @@ This project showcases a complete data warehousing and analytics solution, follo
 This portfolio project covers:
 
 🔹 Data Architecture
-	•	Medallion Architecture (Bronze, Silver, and Gold layers) for structured data processing.
-	•	Optimized fact and dimension tables for efficient analytical queries.
+•	Medallion Architecture (Bronze, Silver, and Gold layers) for structured data processing.
+•	Optimized fact and dimension tables for efficient analytical queries.
 
 🔹 ETL Pipelines & Data Engineering
-	•	Extract, Transform, Load (ETL) workflows from ERP and CRM source systems (CSV-based).
-	•	Data cleansing and integration to ensure quality and consistency.
-	•	SQL-based transformations for structured storage in a modern data warehouse.
+•	Extract, Transform, Load (ETL) workflows from ERP and CRM source systems (CSV-based).
+•	Data cleansing and integration to ensure quality and consistency.
+•	SQL-based transformations for structured storage in a modern data warehouse.
 
 🔹 Analytics & Reporting
-	•	SQL-based analytics to provide insights into:
-	•	Customer Behavior
-	•	Product Performance
-	•	Sales Trends
-	•	BI dashboard integration for data visualization and decision-making support.
+•	SQL-based analytics to provide insights into:
+•	Customer Behavior
+•	Product Performance
+•	Sales Trends
+•	BI dashboard integration for data visualization and decision-making support.
 
 🎯 Skills & Technologies Demonstrated
 
@@ -40,12 +40,19 @@ This project is a great resource for professionals and students looking to showc
 Everything in this project is completely free to use!
 
 🔹 Datasets – Project dataset available in CSV format.
+
 🔹 SQL Server Express – Lightweight SQL database for warehouse implementation.
+
 🔹 SQL Server Management Studio (SSMS) – GUI for database management.
+
 🔹 Git & GitHub – Version control and repository management.
+
 🔹 Draw.io – Data architecture, modeling, and flowchart visualization.
+
 🔹 Notion – Project documentation, tracking, and collaboration.
+
 🔹 Notion Project Steps – Access to detailed project phases and tasks.
+
 
 🚀 Project Implementation Steps
 
@@ -56,11 +63,11 @@ Objective:
 Develop a modern data warehouse in SQL Server to consolidate sales data, enabling analytical reporting and strategic decision-making.
 
 Specifications:
-	•	Data Sources: Import structured data from ERP & CRM (CSV files).
-	•	Data Quality: Implement cleansing and validation steps.
-	•	Integration: Merge datasets into a single, user-friendly model optimized for analytics.
-	•	Scope: Focus on the latest dataset only (historization not required).
-	•	Documentation: Provide clear data model documentation for business and analytics teams.
+•	Data Sources: Import structured data from ERP & CRM (CSV files).
+•	Data Quality: Implement cleansing and validation steps.
+•	Integration: Merge datasets into a single, user-friendly model optimized for analytics.
+•	Scope: Focus on the latest dataset only (historization not required).
+•	Documentation: Provide clear data model documentation for business and analytics teams.
 
 2️⃣ BI, Analytics & Reporting (Data Analysis)
 
