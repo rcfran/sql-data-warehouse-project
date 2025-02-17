@@ -43,11 +43,17 @@ This portfolio project covers:
 
 This project is a great resource for professionals and students looking to showcase expertise in:
 
+
 ✅ SQL Development – Writing efficient queries for reporting and analysis.
+
 ✅ Data Architecture – Designing scalable data warehouse solutions.
+
 ✅ Data Engineering – ETL pipeline development for structured data processing.
+
 ✅ Data Modeling – Building fact and dimension tables for analytical queries.
+
 ✅ Business Intelligence (BI) & Reporting – Generating insights for decision-making.
+
 
 🛠️ Tools & Resources Used
 
